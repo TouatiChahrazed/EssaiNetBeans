@@ -21,6 +21,7 @@ public class FXMLDocumentController implements Initializable {
     @Override
     public void initialize(URL url, ResourceBundle rb) {
         System.out.println("GitHub modification");
+        System.out.print("je suis un nouveau utilisateur  de github");
     }    
     
 }
